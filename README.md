@@ -1,13 +1,4 @@
-Here is the full Markdown content for your `yargnad/yargnad` README.
 
-This is designed to be a **Digital Manifesto**. It uses a dark, high-contrast aesthetic with badges that signal "Sovereignty" (Rust, Linux, Hardware) rather than just "Web Dev."
-
-### **How to Use:**
-1.  **Copy** the code block below.
-2.  **Paste** it into your `yargnad/README.md` file.
-3.  **Commit** changes.
-
-***
 
 ```markdown
 # "The irrational one persists in trying to adapt the world to himself."
