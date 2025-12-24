@@ -1,6 +1,3 @@
-
-
-```markdown
 # "The irrational one persists in trying to adapt the world to himself."
 
 ### Architect of The Authentic Rebellion.
@@ -58,4 +55,3 @@ I build **local-first**, **privacy-centric**, and **human-aligned** technology. 
   <br>
   <a href="https://rebellion.musubiaccord.org/essay.html"><b>Read The Manifesto</b></a>
 </div>
-```
