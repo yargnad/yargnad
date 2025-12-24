@@ -22,7 +22,7 @@ I build **local-first**, **privacy-centric**, and **human-aligned** technology. 
 | **II** | **[The Whetstone](https://github.com/yargnad/The-Whetstone)** | **Cognitive Strengthening.** Physical AI device for Socratic thought. | 🔨 Building |
 | **III** | **[Kintsugi](https://github.com/yargnad/Kintsugi)** | **Public Witness.** A gallery of broken philosophies repaired with gold. | 📋 Concept |
 | **IV** | **[The Lyceum](https://github.com/yargnad/The-Lyceum)** | **Collective Infrastructure.** User-owned, decentralized physical internet. | 🚀 Active |
-| **∞** | **[ChronoLog](https://github.com/yargnad/chronolog)** | **Memory Sovereignty.** Local-first alternative to Windows Recall. | 🛡️ Pre-Alpha |
+| **∞** | **[Mnema](https://github.com/yargnad/Mnema)** | **Memory Sovereignty.** Local-first alternative to Windows Recall. | 🛡️ Pre-Alpha |
 
 ---
 
